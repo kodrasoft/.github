@@ -15,6 +15,6 @@ https://labloot.azurewebsites.net/
 ## _Contributors:_
  - Dittrich Ákos
  - Drahos Zsolt
- - Ködmön Dániel Ákos
+ - Ködmön Dániel Ákos (CEO, President, King)
  
 
